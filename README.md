@@ -1,6 +1,6 @@
 # Dog-breed-classification
 
-This is a capstone project of data scientist nanodegree program offered by Udacity.
+This is a capstone project of data scientist nanodegree program offered by Udacity.The link of my blog post for this project is here. https://medium.com/@sidharth.ku178/dog-breed-classification-with-cnn-16faeabd6255
 
 ### Libraries used
 
