@@ -1,0 +1,3 @@
+This is the link of my blog post for this project.
+
+https://medium.com/@sidharth.ku178/dog-breed-classification-with-cnn-16faeabd6255
